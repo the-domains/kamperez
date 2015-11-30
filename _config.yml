@@ -1,7 +1,7 @@
 name: KamPerez
 favicon: null
-layout_spectrum: 0.9796810671687126
-typography_spectrum: 0.6882469938136637
+layout_spectrum: 1
+typography_spectrum: 0.7677
 title: Kam Perez
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.34419421455822885
-  lightness: 0.6215475611388683
-  saturation: 0.42796119255945086
-  rhythmicContrast: 0.06706372229382396
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
